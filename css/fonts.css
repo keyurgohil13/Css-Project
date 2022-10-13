@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'Jaapokki enchance';
+    src: url('../fonts/Jaapokkienchance-Regular.woff2') format('woff2'),
+        url('../fonts/Jaapokkienchance-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jaapokki';
+    src: url('../fonts/Jaapokki-Regular.woff2') format('woff2'),
+        url('../fonts/Jaapokki-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Jaapokki subtract';
+    src: url('../fonts/Jaapokkisubtract-Regular.woff2') format('woff2'),
+        url('../fonts/Jaapokkisubtract-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maven Pro';
+    src: url('../fonts/MavenProRegular.woff2') format('woff2'),
+        url('../fonts/MavenProRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maven Pro';
+    src: url('../fonts/MavenProBlack.woff2') format('woff2'),
+        url('../fonts/MavenProBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maven Pro';
+    src: url('../fonts/MavenProMedium.woff2') format('woff2'),
+        url('../fonts/MavenProMedium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Maven Pro';
+    src: url('../fonts/MavenProBold.woff2') format('woff2'),
+        url('../fonts/MavenProBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
